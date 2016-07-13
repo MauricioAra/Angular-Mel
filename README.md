@@ -6,7 +6,7 @@ Al clonar el proyecto por primera vez, ingresar los siguientes comandos en la te
 
 ```sh
 $ sudo npm install
-$ sudo bower install
+$ bower install
 ```
 
 ### Desarrollo
